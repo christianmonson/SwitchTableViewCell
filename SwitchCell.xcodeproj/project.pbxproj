@@ -14,6 +14,7 @@
 		689A9E151A85299D00CF5EA4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 689A9E141A85299D00CF5EA4 /* Images.xcassets */; };
 		689A9E181A85299D00CF5EA4 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 689A9E161A85299D00CF5EA4 /* LaunchScreen.xib */; };
 		689A9E241A85299D00CF5EA4 /* SwitchCellTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 689A9E231A85299D00CF5EA4 /* SwitchCellTests.m */; };
+		689A9E3B1A852E4800CF5EA4 /* SwitchTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 689A9E391A852E4800CF5EA4 /* SwitchTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		689A9E1D1A85299D00CF5EA4 /* SwitchCellTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwitchCellTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		689A9E221A85299D00CF5EA4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		689A9E231A85299D00CF5EA4 /* SwitchCellTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SwitchCellTests.m; sourceTree = "<group>"; };
+		689A9E381A852E4800CF5EA4 /* SwitchTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwitchTableViewCell.h; sourceTree = "<group>"; };
+		689A9E391A852E4800CF5EA4 /* SwitchTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SwitchTableViewCell.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +88,8 @@
 				689A9E0C1A85299D00CF5EA4 /* AppDelegate.m */,
 				689A9E0E1A85299D00CF5EA4 /* ViewController.h */,
 				689A9E0F1A85299D00CF5EA4 /* ViewController.m */,
+				689A9E381A852E4800CF5EA4 /* SwitchTableViewCell.h */,
+				689A9E391A852E4800CF5EA4 /* SwitchTableViewCell.m */,
 				689A9E111A85299D00CF5EA4 /* Main.storyboard */,
 				689A9E141A85299D00CF5EA4 /* Images.xcassets */,
 				689A9E161A85299D00CF5EA4 /* LaunchScreen.xib */,
@@ -222,6 +227,7 @@
 				689A9E101A85299D00CF5EA4 /* ViewController.m in Sources */,
 				689A9E0D1A85299D00CF5EA4 /* AppDelegate.m in Sources */,
 				689A9E0A1A85299D00CF5EA4 /* main.m in Sources */,
+				689A9E3B1A852E4800CF5EA4 /* SwitchTableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
