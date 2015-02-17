@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B0835B74-15CA-4AF2-A809-5EFAD9C6128D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwitchCell</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D817BC9D1FF777B25AA8DD0F4A0079EB6026BC94</key>
+		<string>https://github.com/christianmonson/SwitchTableViewCell.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwitchCell.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D817BC9D1FF777B25AA8DD0F4A0079EB6026BC94</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/christianmonson/SwitchTableViewCell.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D817BC9D1FF777B25AA8DD0F4A0079EB6026BC94</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D817BC9D1FF777B25AA8DD0F4A0079EB6026BC94</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwitchTableViewCell</string>
+		</dict>
+	</array>
+</dict>
+</plist>

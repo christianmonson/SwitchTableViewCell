@@ -19,9 +19,6 @@
 - (void)awakeFromNib {
     // Initialization code
     
-//    self.separatorInset = UIEdgeInsetsZero;
-    
-
 }
 
 - (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier {
